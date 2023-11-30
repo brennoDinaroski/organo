@@ -7,8 +7,7 @@ export const Banner = () => {
         <Fragment>
             <header className="banner">
                 <img src="/imagens/banner.png" alt="banner principal da pagina do organo"/>
-            </header>
-            <h1>Teste</h1>
+            </header>            
         </Fragment>
 
     )
